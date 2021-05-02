@@ -13,8 +13,13 @@ Linux:
   export CHAT_ID=Chat-ID"
 
 Usage:
+
   telegram_sender.exe --message Its, Works!!!
+  
   telegram_sender.exe --photo C:\temp\picture.jpg
+  
   telegram_sender.exe --file C:\temp\myfile.txt
 
-Dont need any dependens in windows.
+
+
+*.exe file dont need any dependens in windows.
