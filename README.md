@@ -3,11 +3,13 @@ Very easy telegram sender for windows (also work in Linux), can send photo, mess
 
 Windows: 
   set TELEGRAM_API_KEY=API-KEY
+  
   set CHAT_ID=Chat-ID
 
 Linux: 
 
   export TELEGRAM_API_KEY=API-KEY
+  
   export CHAT_ID=Chat-ID"
 
 Usage:
