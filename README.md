@@ -6,11 +6,11 @@ Windows:
   
   set CHAT_ID=Chat-ID
 
-Linux: 
+Linux:
 
   export TELEGRAM_API_KEY=API-KEY
   
-  export CHAT_ID=Chat-ID"
+  export CHAT_ID=Chat-ID
 
 Usage:
 
